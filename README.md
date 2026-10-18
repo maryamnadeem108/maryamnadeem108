@@ -18,10 +18,10 @@ My Goals
 - Improve my problem-solving skills
 - Create a strong portfolio for internships
 
-Tools I'm Learning
+Tools I'm Learning:
 Python | SQL | Excel | Power BI | GitHub
 
-Projects
+Projects:
 My projects will be added here as I complete them.
 
 Connect With Me
