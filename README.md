@@ -1,44 +1,38 @@
 
-Hi, I'm Maryam Nadeem 
+<h1 align="center">Hi, I'm Maryam Nadeem</h1>
 
-BS Data Science Student
+<h3 align="center">Second-Year BS Data Science Student</h3>
 
-I'm learning how to use data to solve real-world problems.
-I'm currently building my skills in data analysis, programming,
-and machine learning.
+<p align="center">
+  🎓 Institute of Space Technology, Islamabad
+</p>
 
-Currently Learning
-- Python
-- SQL
-- Excel and Power BI
-- Statistics and Data Analysis
+---
 
-My Goals
-- Build practical Data Science projects
-- Improve my problem-solving skills
-- Create a strong portfolio for internships
+### About Me
 
-Tools I'm Learning:
-Python | SQL | Excel | Power BI | GitHub
+- Currently exploring Python, SQL, Excel, and Power BI.
+- Interested in data analysis, statistical thinking, and practical problem-solving.
+- Building my foundation in programming, data handling, and machine learning.
 
-Projects:
-My projects will be added here as I complete them.
+### Languages and Tools
 
-Connect With Me
-LinkedIn: www.linkedin.com/in/maryam-nadeem108
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,mysql,vscode,jupyter" alt="Python, C++, MySQL, VS Code and Jupyter" />
+  <br>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Microsoft Excel" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+</p>
 
 
-<!--
-**maryamnadeem108/maryamnadeem108** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Connect With Me
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <a href="https://www.linkedin.com/in/maryam-nadeem108/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:maryamnadeemmm108@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
