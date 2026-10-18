@@ -8,15 +8,15 @@ I'm currently building my skills in data analysis, programming,
 and machine learning.
 
 Currently Learning
-Python
-SQL
-Excel and Power BI
-Statistics and Data Analysis
+- Python
+- SQL
+- Excel and Power BI
+- Statistics and Data Analysis
 
 My Goals
-Build practical Data Science projects
-Improve my problem-solving skills
-Create a strong portfolio for internships
+- Build practical Data Science projects
+- Improve my problem-solving skills
+- Create a strong portfolio for internships
 
 Tools I'm Learning
 Python | SQL | Excel | Power BI | GitHub
